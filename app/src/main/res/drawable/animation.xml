@@ -1,0 +1,7 @@
+<animation-list xmlns:android="http://schemas.android.com/apk/res/android"
+    android:oneshot="false">
+    <item android:drawable="@drawable/nature" android:duration="500" />
+    <item android:drawable="@drawable/sea" android:duration="500" />
+    <item android:drawable="@drawable/city" android:duration="500" />
+    <!-- Add more frames as needed -->
+</animation-list>

@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Module-6</string>
+    <string name="google_maps_api_key">AIzaSyDnPqrNtTtvOq04iKQe19-_ueZuP3zr8jc</string>
+    <string name="title_activity_maps">MapsActivity</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+</resources>
